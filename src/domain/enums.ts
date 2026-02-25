@@ -1,0 +1,14 @@
+export enum MediaType{
+    IMAGE="IMAGE",
+    VIDEO="VIDEO",
+    LIVE_PHOTO="LIVE_PHOTO"
+}
+
+export enum Mood{
+    CALM="CALM",
+    NOSTALGIA="NOSTALGIA",
+    MELANCHOLIC="MELANCHOLIC",
+  INSPIRED = "INSPIRED",
+  CHAOTIC = "CHAOTIC",
+  GRATEFUL = "GRATEFUL"
+}
